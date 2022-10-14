@@ -1,0 +1,15 @@
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\UC4EwageusingSwitch.csproj.AssemblyReference.cache
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\UC4EwageusingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\UC4EwageusingSwitch.AssemblyInfoInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\UC4EwageusingSwitch.AssemblyInfo.cs
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\UC4EwageusingSwitch.csproj.CoreCompileInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\bin\Debug\net6.0\UC4EwageusingSwitch.exe
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\bin\Debug\net6.0\UC4EwageusingSwitch.deps.json
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\bin\Debug\net6.0\UC4EwageusingSwitch.runtimeconfig.json
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\bin\Debug\net6.0\UC4EwageusingSwitch.dll
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\bin\Debug\net6.0\UC4EwageusingSwitch.pdb
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\UC4EwageusingSwitch.dll
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\refint\UC4EwageusingSwitch.dll
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\UC4EwageusingSwitch.pdb
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\UC4EwageusingSwitch.genruntimeconfig.cache
+D:\BridgeLabzz\Bridgelabzz\UC4EwageusingSwitch\obj\Debug\net6.0\ref\UC4EwageusingSwitch.dll
