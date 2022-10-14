@@ -1,0 +1,15 @@
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\bin\Debug\net6.0\UC3Eparttimewage.exe
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\bin\Debug\net6.0\UC3Eparttimewage.deps.json
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\bin\Debug\net6.0\UC3Eparttimewage.runtimeconfig.json
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\bin\Debug\net6.0\UC3Eparttimewage.dll
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\bin\Debug\net6.0\UC3Eparttimewage.pdb
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\UC3Eparttimewage.csproj.AssemblyReference.cache
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\UC3Eparttimewage.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\UC3Eparttimewage.AssemblyInfoInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\UC3Eparttimewage.AssemblyInfo.cs
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\UC3Eparttimewage.csproj.CoreCompileInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\UC3Eparttimewage.dll
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\refint\UC3Eparttimewage.dll
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\UC3Eparttimewage.pdb
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\UC3Eparttimewage.genruntimeconfig.cache
+D:\BridgeLabzz\Bridgelabzz\UC3Eparttimewage\obj\Debug\net6.0\ref\UC3Eparttimewage.dll
