@@ -1,0 +1,15 @@
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\RANDOM.csproj.AssemblyReference.cache
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\RANDOM.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\RANDOM.AssemblyInfoInputs.cache
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\RANDOM.AssemblyInfo.cs
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\RANDOM.csproj.CoreCompileInputs.cache
+D:\BridgeLabzz\Bridgelabzz\RANDOM\bin\Debug\net6.0\RANDOM.exe
+D:\BridgeLabzz\Bridgelabzz\RANDOM\bin\Debug\net6.0\RANDOM.deps.json
+D:\BridgeLabzz\Bridgelabzz\RANDOM\bin\Debug\net6.0\RANDOM.runtimeconfig.json
+D:\BridgeLabzz\Bridgelabzz\RANDOM\bin\Debug\net6.0\RANDOM.dll
+D:\BridgeLabzz\Bridgelabzz\RANDOM\bin\Debug\net6.0\RANDOM.pdb
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\RANDOM.dll
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\refint\RANDOM.dll
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\RANDOM.pdb
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\RANDOM.genruntimeconfig.cache
+D:\BridgeLabzz\Bridgelabzz\RANDOM\obj\Debug\net6.0\ref\RANDOM.dll
