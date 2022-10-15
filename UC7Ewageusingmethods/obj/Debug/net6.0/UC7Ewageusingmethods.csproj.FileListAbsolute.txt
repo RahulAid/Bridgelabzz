@@ -1,0 +1,15 @@
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\bin\Debug\net6.0\UC7Ewageusingmethods.exe
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\bin\Debug\net6.0\UC7Ewageusingmethods.deps.json
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\bin\Debug\net6.0\UC7Ewageusingmethods.runtimeconfig.json
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\bin\Debug\net6.0\UC7Ewageusingmethods.dll
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\bin\Debug\net6.0\UC7Ewageusingmethods.pdb
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\UC7Ewageusingmethods.csproj.AssemblyReference.cache
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\UC7Ewageusingmethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\UC7Ewageusingmethods.AssemblyInfoInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\UC7Ewageusingmethods.AssemblyInfo.cs
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\UC7Ewageusingmethods.csproj.CoreCompileInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\UC7Ewageusingmethods.dll
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\refint\UC7Ewageusingmethods.dll
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\UC7Ewageusingmethods.pdb
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\UC7Ewageusingmethods.genruntimeconfig.cache
+D:\BridgeLabzz\Bridgelabzz\UC7Ewageusingmethods\obj\Debug\net6.0\ref\UC7Ewageusingmethods.dll
