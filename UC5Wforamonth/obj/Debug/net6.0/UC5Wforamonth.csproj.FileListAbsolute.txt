@@ -1,0 +1,15 @@
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\bin\Debug\net6.0\UC5Wforamonth.exe
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\bin\Debug\net6.0\UC5Wforamonth.deps.json
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\bin\Debug\net6.0\UC5Wforamonth.runtimeconfig.json
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\bin\Debug\net6.0\UC5Wforamonth.dll
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\bin\Debug\net6.0\UC5Wforamonth.pdb
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\UC5Wforamonth.csproj.AssemblyReference.cache
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\UC5Wforamonth.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\UC5Wforamonth.AssemblyInfoInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\UC5Wforamonth.AssemblyInfo.cs
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\UC5Wforamonth.csproj.CoreCompileInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\UC5Wforamonth.dll
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\refint\UC5Wforamonth.dll
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\UC5Wforamonth.pdb
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\UC5Wforamonth.genruntimeconfig.cache
+D:\BridgeLabzz\Bridgelabzz\UC5Wforamonth\obj\Debug\net6.0\ref\UC5Wforamonth.dll
