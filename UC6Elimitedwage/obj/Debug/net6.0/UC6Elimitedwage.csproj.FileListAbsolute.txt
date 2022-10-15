@@ -1,0 +1,15 @@
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\UC6Elimitedwage.csproj.AssemblyReference.cache
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\UC6Elimitedwage.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\UC6Elimitedwage.AssemblyInfoInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\UC6Elimitedwage.AssemblyInfo.cs
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\UC6Elimitedwage.csproj.CoreCompileInputs.cache
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\bin\Debug\net6.0\UC6Elimitedwage.exe
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\bin\Debug\net6.0\UC6Elimitedwage.deps.json
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\bin\Debug\net6.0\UC6Elimitedwage.runtimeconfig.json
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\bin\Debug\net6.0\UC6Elimitedwage.dll
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\bin\Debug\net6.0\UC6Elimitedwage.pdb
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\UC6Elimitedwage.dll
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\refint\UC6Elimitedwage.dll
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\UC6Elimitedwage.pdb
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\UC6Elimitedwage.genruntimeconfig.cache
+D:\BridgeLabzz\Bridgelabzz\UC6Elimitedwage\obj\Debug\net6.0\ref\UC6Elimitedwage.dll
